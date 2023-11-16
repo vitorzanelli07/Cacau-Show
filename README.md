@@ -1,3 +1,3 @@
 # cacau-show
 
-fiz com o matheus augusto
+trabalho de Vitor Z. e Matheus A.
